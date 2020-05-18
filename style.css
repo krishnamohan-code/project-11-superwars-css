@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
   margin: 0px;
   padding: 0px;
@@ -39,4 +40,46 @@
 .footer{
 margin-left: 80px;
 font-size: 18px;
+=======
+*{
+  margin: 0px;
+  padding: 0px;
+  
+}
+.grid1{
+  display: flex;
+  margin: 70px ;
+
+}
+.grid2{
+  display: flex;
+
+}
+.container{
+  display: flex;
+  margin-left: 100px;
+  
+}
+#img1,#img2,#img3,#img4{
+  border: 1px solid grey;
+  margin: 0px 10px 20px;
+  border-radius:  0.5em;
+  text-align: center;
+  size: 2em;
+}
+.grid1,.grid2{
+  margin: 5px 300px 0px 30px;
+}
+
+#style{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  font-size: 50px;
+  
+}
+.footer{
+margin-left: 80px;
+font-size: 18px;
+>>>>>>> d066ee3a971290e27100cdf5f6ede4be433ecba2
 }
